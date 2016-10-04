@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 5552498e86102594ca5c87a54cd25f09
+timeCreated: 1453627031
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 58676dfd07a110f40bac420faa0f559a
+  longitude: -81.68467119078886
+  latitude: 30.247849227304894
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.384616, y: 1.2110537, z: 14.202426}
+      lookAt: {x: -2.0374765, y: 4.003378, z: 40.739403}
+      up: {x: 0.035632595, y: 0.995238, z: -0.09072854}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 7.5080843, y: 1.0458605, z: 4.4057884}
+        lookAt: {x: -5.551491, y: 3.2132206, z: 29.810083}
+        up: {x: 0.03459077, y: 0.9971338, z: -0.06728811}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Agrupar#29
+    100002: Agrupar#29 1
+    100004: Agrupar#29 2
+    100006: Agrupar#29 3
+    100008: Agrupar#29 4
+    100010: Agrupar#32
+    100012: Agrupar#32 1
+    100014: Agrupar#32 2
+    100016: Agrupar#32 3
+    100018: Agrupar#32 4
+    100020: Chest1
+    100022: Chest1 1
+    100024: Chest1 2
+    100026: //RootNode
+    100028: Group 10
+    100030: Group 101
+    100032: Group 103
+    100034: Group 106
+    100036: Group 108
+    100038: Group 110
+    100040: Group 113
+    100042: Group 115
+    100044: Group 117
+    100046: Group 12
+    100048: Group 121
+    100050: Group 139
+    100052: Group 14
+    100054: Group 140
+    100056: Group 142
+    100058: Group 144
+    100060: Group 146
+    100062: Group 148
+    100064: Group 149
+    100066: Group 151
+    100068: Group 153
+    100070: Group 155
+    100072: Group 157
+    100074: Group 159
+    100076: Group 16
+    100078: Group 161
+    100080: Group 163
+    100082: Group 165
+    100084: Group 167
+    100086: Group 169
+    100088: Group 17
+    100090: Group 172
+    100092: Group 174
+    100094: Group 176
+    100096: Group 179
+    100098: Group 181
+    100100: Group 183
+    100102: Group 187
+    100104: Group 19
+    100106: Group 203
+    100108: Group 204
+    100110: Group 206
+    100112: Group 207
+    100114: Group 209
+    100116: Group 21
+    100118: Group 212
+    100120: Group 213
+    100122: Group 215
+    100124: Group 216
+    100126: Group 218
+    100128: Group 226
+    100130: Group 23
+    100132: Group 230
+    100134: Group 234
+    100136: Group 238
+    100138: Group 242
+    100140: Group 246
+    100142: Group 25
+    100144: Group 250
+    100146: Group 254
+    100148: Group 258
+    100150: Group 262
+    100152: Group 266
+    100154: Group 27
+    100156: Group 270
+    100158: Group 274
+    100160: Group 278
+    100162: Group 282
+    100164: Group 287
+    100166: Group 288
+    100168: Group 29
+    100170: Group 290
+    100172: Group 292
+    100174: Group 294
+    100176: Group 296
+    100178: Group 297
+    100180: Group 299
+    100182: Group 301
+    100184: Group 303
+    100186: Group 305
+    100188: Group 307
+    100190: Group 309
+    100192: Group 31
+    100194: Group 311
+    100196: Group 313
+    100198: Group 315
+    100200: Group 317
+    100202: Group 320
+    100204: Group 322
+    100206: Group 324
+    100208: Group 327
+    100210: Group 329
+    100212: Group 33
+    100214: Group 331
+    100216: Group 335
+    100218: Group 35
+    100220: Group 351
+    100222: Group 352
+    100224: Group 354
+    100226: Group 355
+    100228: Group 357
+    100230: Group 364
+    100232: Group 365
+    100234: Group 367
+    100236: Group 369
+    100238: Group 37
+    100240: Group 371
+    100242: Group 373
+    100244: Group 374
+    100246: Group 376
+    100248: Group 378
+    100250: Group 380
+    100252: Group 382
+    100254: Group 384
+    100256: Group 386
+    100258: Group 388
+    100260: Group 390
+    100262: Group 392
+    100264: Group 394
+    100266: Group 397
+    100268: Group 399
+    100270: Group 40
+    100272: Group 401
+    100274: Group 404
+    100276: Group 406
+    100278: Group 408
+    100280: Group 412
+    100282: Group 42
+    100284: Group 44
+    100286: Group 47
+    100288: Group 49
+    100290: Group 51
+    100292: Group 55
+    100294: Group 7
+    100296: Group 73
+    100298: Group 74
+    100300: Group 76
+    100302: Group 78
+    100304: Group 8
+    100306: Group 80
+    100308: Group 82
+    100310: Group 83
+    100312: Group 85
+    100314: Group 87
+    100316: Group 89
+    100318: Group 91
+    100320: Group 93
+    100322: Group 95
+    100324: Group 97
+    100326: Group 99
+    100328: Group#1
+    100330: Group#1 1
+    100332: Group#1 2
+    100334: Group#1 3
+    100336: Group#1 4
+    100338: mobile antico57
+    100340: mobile antico57 1
+    100342: mobile antico57 2
+    100344: Oh Exalted One
+    100346: Oh Exalted One 1
+    100348: Oh Exalted One 2
+    100350: Oh Exalted One 3
+    100352: Oh Exalted One 4
+    100354: Oh Exalted One 5
+    100356: Oh Exalted One 6
+    100358: Oh Exalted One 7
+    100360: Oh Exalted One 8
+    100362: Oh Exalted One 9
+    100364: Pedistal
+    100366: Pedistal 1
+    100368: Pedistal 2
+    100370: Pedistal 3
+    100372: Pedistal 4
+    100374: shield
+    100376: shield 1
+    100378: shield 2
+    100380: shield 3
+    100382: shield 4
+    100384: ske499A
+    100386: ske499A 1
+    100388: ske499A 2
+    100390: ske499A 3
+    100392: ske499A 4
+    100394: ske499A 5
+    100396: ske499A 6
+    100398: ske499A 7
+    100400: ske499A 8
+    100402: ske499A 9
+    100404: Suit of Armor
+    100406: Suit of Armor 1
+    100408: Suit of Armor 2
+    100410: Suit of Armor 3
+    100412: Suit of Armor 4
+    100414: Suit of Armor#1
+    100416: Suit of Armor#1 1
+    100418: Suit of Armor#1 2
+    100420: Suit of Armor#1 3
+    100422: Suit of Armor#1 4
+    100424: Sword
+    100426: Sword 1
+    100428: Sword 2
+    100430: Sword 3
+    100432: Sword 4
+    100434: Sword 5
+    100436: Sword 6
+    100438: Sword 7
+    100440: Sword 8
+    100442: Sword 9
+    100444: wallcandleholder001
+    100446: wallcandleholder001 1
+    100448: wallcandleholder001 10
+    100450: wallcandleholder001 11
+    100452: wallcandleholder001 12
+    100454: wallcandleholder001 13
+    100456: wallcandleholder001 14
+    100458: wallcandleholder001 2
+    100460: wallcandleholder001 3
+    100462: wallcandleholder001 4
+    100464: wallcandleholder001 5
+    100466: wallcandleholder001 6
+    100468: wallcandleholder001 7
+    100470: wallcandleholder001 8
+    100472: wallcandleholder001 9
+    100474: wood
+    400000: Agrupar#29
+    400002: Agrupar#29 1
+    400004: Agrupar#29 2
+    400006: Agrupar#29 3
+    400008: Agrupar#29 4
+    400010: Agrupar#32
+    400012: Agrupar#32 1
+    400014: Agrupar#32 2
+    400016: Agrupar#32 3
+    400018: Agrupar#32 4
+    400020: Chest1
+    400022: Chest1 1
+    400024: Chest1 2
+    400026: //RootNode
+    400028: Group 10
+    400030: Group 101
+    400032: Group 103
+    400034: Group 106
+    400036: Group 108
+    400038: Group 110
+    400040: Group 113
+    400042: Group 115
+    400044: Group 117
+    400046: Group 12
+    400048: Group 121
+    400050: Group 139
+    400052: Group 14
+    400054: Group 140
+    400056: Group 142
+    400058: Group 144
+    400060: Group 146
+    400062: Group 148
+    400064: Group 149
+    400066: Group 151
+    400068: Group 153
+    400070: Group 155
+    400072: Group 157
+    400074: Group 159
+    400076: Group 16
+    400078: Group 161
+    400080: Group 163
+    400082: Group 165
+    400084: Group 167
+    400086: Group 169
+    400088: Group 17
+    400090: Group 172
+    400092: Group 174
+    400094: Group 176
+    400096: Group 179
+    400098: Group 181
+    400100: Group 183
+    400102: Group 187
+    400104: Group 19
+    400106: Group 203
+    400108: Group 204
+    400110: Group 206
+    400112: Group 207
+    400114: Group 209
+    400116: Group 21
+    400118: Group 212
+    400120: Group 213
+    400122: Group 215
+    400124: Group 216
+    400126: Group 218
+    400128: Group 226
+    400130: Group 23
+    400132: Group 230
+    400134: Group 234
+    400136: Group 238
+    400138: Group 242
+    400140: Group 246
+    400142: Group 25
+    400144: Group 250
+    400146: Group 254
+    400148: Group 258
+    400150: Group 262
+    400152: Group 266
+    400154: Group 27
+    400156: Group 270
+    400158: Group 274
+    400160: Group 278
+    400162: Group 282
+    400164: Group 287
+    400166: Group 288
+    400168: Group 29
+    400170: Group 290
+    400172: Group 292
+    400174: Group 294
+    400176: Group 296
+    400178: Group 297
+    400180: Group 299
+    400182: Group 301
+    400184: Group 303
+    400186: Group 305
+    400188: Group 307
+    400190: Group 309
+    400192: Group 31
+    400194: Group 311
+    400196: Group 313
+    400198: Group 315
+    400200: Group 317
+    400202: Group 320
+    400204: Group 322
+    400206: Group 324
+    400208: Group 327
+    400210: Group 329
+    400212: Group 33
+    400214: Group 331
+    400216: Group 335
+    400218: Group 35
+    400220: Group 351
+    400222: Group 352
+    400224: Group 354
+    400226: Group 355
+    400228: Group 357
+    400230: Group 364
+    400232: Group 365
+    400234: Group 367
+    400236: Group 369
+    400238: Group 37
+    400240: Group 371
+    400242: Group 373
+    400244: Group 374
+    400246: Group 376
+    400248: Group 378
+    400250: Group 380
+    400252: Group 382
+    400254: Group 384
+    400256: Group 386
+    400258: Group 388
+    400260: Group 390
+    400262: Group 392
+    400264: Group 394
+    400266: Group 397
+    400268: Group 399
+    400270: Group 40
+    400272: Group 401
+    400274: Group 404
+    400276: Group 406
+    400278: Group 408
+    400280: Group 412
+    400282: Group 42
+    400284: Group 44
+    400286: Group 47
+    400288: Group 49
+    400290: Group 51
+    400292: Group 55
+    400294: Group 7
+    400296: Group 73
+    400298: Group 74
+    400300: Group 76
+    400302: Group 78
+    400304: Group 8
+    400306: Group 80
+    400308: Group 82
+    400310: Group 83
+    400312: Group 85
+    400314: Group 87
+    400316: Group 89
+    400318: Group 91
+    400320: Group 93
+    400322: Group 95
+    400324: Group 97
+    400326: Group 99
+    400328: Group#1
+    400330: Group#1 1
+    400332: Group#1 2
+    400334: Group#1 3
+    400336: Group#1 4
+    400338: mobile antico57
+    400340: mobile antico57 1
+    400342: mobile antico57 2
+    400344: Oh Exalted One
+    400346: Oh Exalted One 1
+    400348: Oh Exalted One 2
+    400350: Oh Exalted One 3
+    400352: Oh Exalted One 4
+    400354: Oh Exalted One 5
+    400356: Oh Exalted One 6
+    400358: Oh Exalted One 7
+    400360: Oh Exalted One 8
+    400362: Oh Exalted One 9
+    400364: Pedistal
+    400366: Pedistal 1
+    400368: Pedistal 2
+    400370: Pedistal 3
+    400372: Pedistal 4
+    400374: shield
+    400376: shield 1
+    400378: shield 2
+    400380: shield 3
+    400382: shield 4
+    400384: ske499A
+    400386: ske499A 1
+    400388: ske499A 2
+    400390: ske499A 3
+    400392: ske499A 4
+    400394: ske499A 5
+    400396: ske499A 6
+    400398: ske499A 7
+    400400: ske499A 8
+    400402: ske499A 9
+    400404: Suit of Armor
+    400406: Suit of Armor 1
+    400408: Suit of Armor 2
+    400410: Suit of Armor 3
+    400412: Suit of Armor 4
+    400414: Suit of Armor#1
+    400416: Suit of Armor#1 1
+    400418: Suit of Armor#1 2
+    400420: Suit of Armor#1 3
+    400422: Suit of Armor#1 4
+    400424: Sword
+    400426: Sword 1
+    400428: Sword 2
+    400430: Sword 3
+    400432: Sword 4
+    400434: Sword 5
+    400436: Sword 6
+    400438: Sword 7
+    400440: Sword 8
+    400442: Sword 9
+    400444: wallcandleholder001
+    400446: wallcandleholder001 1
+    400448: wallcandleholder001 10
+    400450: wallcandleholder001 11
+    400452: wallcandleholder001 12
+    400454: wallcandleholder001 13
+    400456: wallcandleholder001 14
+    400458: wallcandleholder001 2
+    400460: wallcandleholder001 3
+    400462: wallcandleholder001 4
+    400464: wallcandleholder001 5
+    400466: wallcandleholder001 6
+    400468: wallcandleholder001 7
+    400470: wallcandleholder001 8
+    400472: wallcandleholder001 9
+    400474: wood
+    2300000: //RootNode
+    2300002: Group 10
+    2300004: Group 101
+    2300006: Group 103
+    2300008: Group 106
+    2300010: Group 108
+    2300012: Group 110
+    2300014: Group 113
+    2300016: Group 115
+    2300018: Group 117
+    2300020: Group 12
+    2300022: Group 14
+    2300024: Group 140
+    2300026: Group 142
+    2300028: Group 144
+    2300030: Group 146
+    2300032: Group 149
+    2300034: Group 151
+    2300036: Group 153
+    2300038: Group 155
+    2300040: Group 157
+    2300042: Group 159
+    2300044: Group 161
+    2300046: Group 163
+    2300048: Group 165
+    2300050: Group 167
+    2300052: Group 169
+    2300054: Group 17
+    2300056: Group 172
+    2300058: Group 174
+    2300060: Group 176
+    2300062: Group 179
+    2300064: Group 181
+    2300066: Group 183
+    2300068: Group 19
+    2300070: Group 204
+    2300072: Group 207
+    2300074: Group 209
+    2300076: Group 21
+    2300078: Group 213
+    2300080: Group 216
+    2300082: Group 218
+    2300084: Group 226
+    2300086: Group 23
+    2300088: Group 230
+    2300090: Group 234
+    2300092: Group 238
+    2300094: Group 242
+    2300096: Group 246
+    2300098: Group 25
+    2300100: Group 250
+    2300102: Group 254
+    2300104: Group 258
+    2300106: Group 262
+    2300108: Group 266
+    2300110: Group 27
+    2300112: Group 270
+    2300114: Group 274
+    2300116: Group 278
+    2300118: Group 282
+    2300120: Group 288
+    2300122: Group 29
+    2300124: Group 290
+    2300126: Group 292
+    2300128: Group 294
+    2300130: Group 297
+    2300132: Group 299
+    2300134: Group 301
+    2300136: Group 303
+    2300138: Group 305
+    2300140: Group 307
+    2300142: Group 309
+    2300144: Group 31
+    2300146: Group 311
+    2300148: Group 313
+    2300150: Group 315
+    2300152: Group 317
+    2300154: Group 320
+    2300156: Group 322
+    2300158: Group 324
+    2300160: Group 327
+    2300162: Group 329
+    2300164: Group 33
+    2300166: Group 331
+    2300168: Group 35
+    2300170: Group 352
+    2300172: Group 355
+    2300174: Group 357
+    2300176: Group 365
+    2300178: Group 367
+    2300180: Group 369
+    2300182: Group 37
+    2300184: Group 371
+    2300186: Group 374
+    2300188: Group 376
+    2300190: Group 378
+    2300192: Group 380
+    2300194: Group 382
+    2300196: Group 384
+    2300198: Group 386
+    2300200: Group 388
+    2300202: Group 390
+    2300204: Group 392
+    2300206: Group 394
+    2300208: Group 397
+    2300210: Group 399
+    2300212: Group 40
+    2300214: Group 401
+    2300216: Group 404
+    2300218: Group 406
+    2300220: Group 408
+    2300222: Group 42
+    2300224: Group 44
+    2300226: Group 47
+    2300228: Group 49
+    2300230: Group 51
+    2300232: Group 74
+    2300234: Group 76
+    2300236: Group 78
+    2300238: Group 8
+    2300240: Group 80
+    2300242: Group 83
+    2300244: Group 85
+    2300246: Group 87
+    2300248: Group 89
+    2300250: Group 91
+    2300252: Group 93
+    2300254: Group 95
+    2300256: Group 97
+    2300258: Group 99
+    2300260: mobile antico57
+    2300262: mobile antico57 1
+    2300264: mobile antico57 2
+    2300266: Oh Exalted One
+    2300268: Oh Exalted One 1
+    2300270: Oh Exalted One 2
+    2300272: Oh Exalted One 3
+    2300274: Oh Exalted One 4
+    2300276: Oh Exalted One 5
+    2300278: Oh Exalted One 6
+    2300280: Oh Exalted One 7
+    2300282: Oh Exalted One 8
+    2300284: Oh Exalted One 9
+    2300286: Pedistal
+    2300288: Pedistal 1
+    2300290: Pedistal 2
+    2300292: Pedistal 3
+    2300294: Pedistal 4
+    2300296: shield
+    2300298: shield 1
+    2300300: shield 2
+    2300302: shield 3
+    2300304: shield 4
+    2300306: ske499A
+    2300308: ske499A 1
+    2300310: ske499A 2
+    2300312: ske499A 3
+    2300314: ske499A 4
+    2300316: ske499A 5
+    2300318: ske499A 6
+    2300320: ske499A 7
+    2300322: ske499A 8
+    2300324: ske499A 9
+    2300326: Sword
+    2300328: Sword 1
+    2300330: Sword 2
+    2300332: Sword 3
+    2300334: Sword 4
+    2300336: Sword 5
+    2300338: Sword 6
+    2300340: Sword 7
+    2300342: Sword 8
+    2300344: Sword 9
+    2300346: wallcandleholder001
+    2300348: wallcandleholder001 1
+    2300350: wallcandleholder001 10
+    2300352: wallcandleholder001 11
+    2300354: wallcandleholder001 12
+    2300356: wallcandleholder001 13
+    2300358: wallcandleholder001 14
+    2300360: wallcandleholder001 2
+    2300362: wallcandleholder001 3
+    2300364: wallcandleholder001 4
+    2300366: wallcandleholder001 5
+    2300368: wallcandleholder001 6
+    2300370: wallcandleholder001 7
+    2300372: wallcandleholder001 8
+    2300374: wallcandleholder001 9
+    2300376: wood
+    3300000: //RootNode
+    3300002: Group 10
+    3300004: Group 101
+    3300006: Group 103
+    3300008: Group 106
+    3300010: Group 108
+    3300012: Group 110
+    3300014: Group 113
+    3300016: Group 115
+    3300018: Group 117
+    3300020: Group 12
+    3300022: Group 14
+    3300024: Group 140
+    3300026: Group 142
+    3300028: Group 144
+    3300030: Group 146
+    3300032: Group 149
+    3300034: Group 151
+    3300036: Group 153
+    3300038: Group 155
+    3300040: Group 157
+    3300042: Group 159
+    3300044: Group 161
+    3300046: Group 163
+    3300048: Group 165
+    3300050: Group 167
+    3300052: Group 169
+    3300054: Group 17
+    3300056: Group 172
+    3300058: Group 174
+    3300060: Group 176
+    3300062: Group 179
+    3300064: Group 181
+    3300066: Group 183
+    3300068: Group 19
+    3300070: Group 204
+    3300072: Group 207
+    3300074: Group 209
+    3300076: Group 21
+    3300078: Group 213
+    3300080: Group 216
+    3300082: Group 218
+    3300084: Group 226
+    3300086: Group 23
+    3300088: Group 230
+    3300090: Group 234
+    3300092: Group 238
+    3300094: Group 242
+    3300096: Group 246
+    3300098: Group 25
+    3300100: Group 250
+    3300102: Group 254
+    3300104: Group 258
+    3300106: Group 262
+    3300108: Group 266
+    3300110: Group 27
+    3300112: Group 270
+    3300114: Group 274
+    3300116: Group 278
+    3300118: Group 282
+    3300120: Group 288
+    3300122: Group 29
+    3300124: Group 290
+    3300126: Group 292
+    3300128: Group 294
+    3300130: Group 297
+    3300132: Group 299
+    3300134: Group 301
+    3300136: Group 303
+    3300138: Group 305
+    3300140: Group 307
+    3300142: Group 309
+    3300144: Group 31
+    3300146: Group 311
+    3300148: Group 313
+    3300150: Group 315
+    3300152: Group 317
+    3300154: Group 320
+    3300156: Group 322
+    3300158: Group 324
+    3300160: Group 327
+    3300162: Group 329
+    3300164: Group 33
+    3300166: Group 331
+    3300168: Group 35
+    3300170: Group 352
+    3300172: Group 355
+    3300174: Group 357
+    3300176: Group 365
+    3300178: Group 367
+    3300180: Group 369
+    3300182: Group 37
+    3300184: Group 371
+    3300186: Group 374
+    3300188: Group 376
+    3300190: Group 378
+    3300192: Group 380
+    3300194: Group 382
+    3300196: Group 384
+    3300198: Group 386
+    3300200: Group 388
+    3300202: Group 390
+    3300204: Group 392
+    3300206: Group 394
+    3300208: Group 397
+    3300210: Group 399
+    3300212: Group 40
+    3300214: Group 401
+    3300216: Group 404
+    3300218: Group 406
+    3300220: Group 408
+    3300222: Group 42
+    3300224: Group 44
+    3300226: Group 47
+    3300228: Group 49
+    3300230: Group 51
+    3300232: Group 74
+    3300234: Group 76
+    3300236: Group 78
+    3300238: Group 8
+    3300240: Group 80
+    3300242: Group 83
+    3300244: Group 85
+    3300246: Group 87
+    3300248: Group 89
+    3300250: Group 91
+    3300252: Group 93
+    3300254: Group 95
+    3300256: Group 97
+    3300258: Group 99
+    3300260: mobile antico57
+    3300262: mobile antico57 1
+    3300264: mobile antico57 2
+    3300266: Oh Exalted One
+    3300268: Oh Exalted One 1
+    3300270: Oh Exalted One 2
+    3300272: Oh Exalted One 3
+    3300274: Oh Exalted One 4
+    3300276: Oh Exalted One 5
+    3300278: Oh Exalted One 6
+    3300280: Oh Exalted One 7
+    3300282: Oh Exalted One 8
+    3300284: Oh Exalted One 9
+    3300286: Pedistal
+    3300288: Pedistal 1
+    3300290: Pedistal 2
+    3300292: Pedistal 3
+    3300294: Pedistal 4
+    3300296: shield
+    3300298: shield 1
+    3300300: shield 2
+    3300302: shield 3
+    3300304: shield 4
+    3300306: ske499A
+    3300308: ske499A 1
+    3300310: ske499A 2
+    3300312: ske499A 3
+    3300314: ske499A 4
+    3300316: ske499A 5
+    3300318: ske499A 6
+    3300320: ske499A 7
+    3300322: ske499A 8
+    3300324: ske499A 9
+    3300326: Sword
+    3300328: Sword 1
+    3300330: Sword 2
+    3300332: Sword 3
+    3300334: Sword 4
+    3300336: Sword 5
+    3300338: Sword 6
+    3300340: Sword 7
+    3300342: Sword 8
+    3300344: Sword 9
+    3300346: wallcandleholder001
+    3300348: wallcandleholder001 1
+    3300350: wallcandleholder001 10
+    3300352: wallcandleholder001 11
+    3300354: wallcandleholder001 12
+    3300356: wallcandleholder001 13
+    3300358: wallcandleholder001 14
+    3300360: wallcandleholder001 2
+    3300362: wallcandleholder001 3
+    3300364: wallcandleholder001 4
+    3300366: wallcandleholder001 5
+    3300368: wallcandleholder001 6
+    3300370: wallcandleholder001 7
+    3300372: wallcandleholder001 8
+    3300374: wallcandleholder001 9
+    3300376: wood
+    4300000: Mesh corridor
+    4300002: Mesh wood
+    4300004: Mesh Group 8
+    4300006: Mesh Group 10
+    4300008: Mesh Group 12
+    4300010: Mesh Group 14
+    4300012: Mesh Group 17
+    4300014: Mesh Group 19
+    4300016: Mesh Group 21
+    4300018: Mesh Group 23
+    4300020: Mesh Group 25
+    4300022: Mesh Group 27
+    4300024: Mesh Group 29
+    4300026: Mesh Group 31
+    4300028: Mesh Group 33
+    4300030: Mesh Group 35
+    4300032: Mesh Group 37
+    4300034: Mesh Group 40
+    4300036: Mesh Group 42
+    4300038: Mesh Group 44
+    4300040: Mesh shield
+    4300042: Mesh ske499A
+    4300044: Mesh Oh Exalted One
+    4300046: Mesh Sword
+    4300048: Mesh Pedistal
+    4300050: Mesh Group 204
+    4300052: Mesh Group 207
+    4300054: Mesh Group 209
+    4300056: Mesh mobile antico57
+    4300058: Mesh wallcandleholder001
+    4300060: Mesh Group 226
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
